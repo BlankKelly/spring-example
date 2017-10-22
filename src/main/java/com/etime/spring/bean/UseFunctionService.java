@@ -1,5 +1,6 @@
-package com.etime.bean;
+package com.etime.spring.bean;
 
+import com.etime.spring.bean.FunctionService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

@@ -1,6 +1,5 @@
-package com.etime.bean;
+package com.etime.spring.event;
 
-import org.springframework.beans.factory.annotation.Configurable;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 
@@ -9,6 +8,6 @@ import org.springframework.context.annotation.Configuration;
  * @author huitailang
  */
 @Configuration
-@ComponentScan("com.etime.bean")
-public class BeanConfig {
+@ComponentScan("com.etime.spring.event")
+public class EventConfig {
 }

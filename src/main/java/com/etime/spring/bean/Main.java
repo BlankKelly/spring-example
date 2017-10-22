@@ -1,4 +1,4 @@
-package com.etime.bean;
+package com.etime.spring.bean;
 
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 

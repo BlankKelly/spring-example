@@ -28,6 +28,6 @@
         <appender-ref ref="Console" />
         <appender-ref ref="File" />
     </root>
-    <logger name="org.springframework" level="ERROR" />
+    <logger name="org.springframework" level="DEBUG" />
     <logger name="com.etime" level="DEBUG" />
 </configuration>
